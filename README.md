@@ -1,4 +1,5 @@
-# recommendation_session_based_ultradeep
+# Session_based_Recommendation_dataset_Ultradeep_Models
+
 A large-scale datasets for session-based recommendation  and sequential recommendation
 
 Video-6M: https://drive.google.com/file/d/1wd3xzF9VnZ6r35nMb3-H4E31vWK87vjW/view?usp=sharing
